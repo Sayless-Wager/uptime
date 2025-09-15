@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sayless.com.ng.ico",
     "slug": "sayless-website",
     "status": "up",
-    "uptime": "94.79%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "94.79%",
-    "time": 1147,
-    "timeDay": 3094,
-    "timeWeek": 2109,
-    "timeMonth": 2017,
-    "timeYear": 1147,
+    "uptime": "94.67%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "94.67%",
+    "time": 1157,
+    "timeDay": 3003,
+    "timeWeek": 2314,
+    "timeMonth": 2077,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2025-09-14": 39,
+      "2025-09-14": 33,
       "2025-09-04": 106,
       "2025-09-03": 19,
       "2025-09-01": 23,
@@ -39,7 +39,7 @@
       "2025-05-05": 1366,
       "2025-05-04": 1352,
       "2025-05-03": 1381,
-      "2025-05-02": 760
+      "2025-05-02": 1158
     }
   }
 ]
