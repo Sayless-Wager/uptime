@@ -4,7 +4,7 @@
     "url": "https://www.sayless.com.ng",
     "icon": "https://icons.duckduckgo.com/ip3/www.sayless.com.ng.ico",
     "slug": "sayless-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "97.37%",
     "time": 1349,
     "timeDay": 833,
-    "timeWeek": 2102,
+    "timeWeek": 2297,
     "timeMonth": 1256,
     "timeYear": 1349,
     "dailyMinutesDown": {
